@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  releasedate: 2014-12-08
+  song: 
+  band: 
+
+two:
+  title: MyString
+  releasedate: 2014-12-08
+  song: 
+  band: 
